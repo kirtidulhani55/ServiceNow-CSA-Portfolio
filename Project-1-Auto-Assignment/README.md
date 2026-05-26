@@ -44,12 +44,19 @@ Example:
 
 ## Screenshots
 - Incident form with Service Category
+
 ![Service Category](https://github.com/kirtidulhani55/ServiceNow-CSA-Portfolio/blob/main/Project-1-Auto-Assignment/Screenshot%202026-05-26%20144227.png?raw=true)
+
 - Assignment Groups
+
 ![Assignment Groups](https://github.com/kirtidulhani55/ServiceNow-CSA-Portfolio/blob/main/Project-1-Auto-Assignment/Screenshot%202026-05-26%20144330.png?raw=true)
+
 - Business Rule configuration
+
 ![Business Rule](https://github.com/kirtidulhani55/ServiceNow-CSA-Portfolio/blob/main/Project-1-Auto-Assignment/Screenshot%202026-05-26%20144420.png?raw=true)
+
 - Auto-assignment test results
+
 ![Auto Assignment](https://github.com/kirtidulhani55/ServiceNow-CSA-Portfolio/blob/main/Project-1-Auto-Assignment/Screenshot%202026-05-26%20144433.png?raw=true)
 
 ## Result
