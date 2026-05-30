@@ -51,3 +51,18 @@ Implemented Role-Based Access Control (RBAC) using ServiceNow Roles and Access C
 * Configuring ACLs
 * Controlling table-level access
 * Implementing security best practices in ServiceNow
+
+
+
+## Screenshots
+
+### ACL Configuration
+![ACL Configuration](Screenshot%202026-05-30%20172011.png)
+
+### Test Users Created
+![Test Users](Screenshot%202026-05-30%20172044.png)
+
+### Custom Roles Created
+![Custom Roles](Screenshot%202026-05-30%20172237.png)
+
+![Role Assignment](Screenshot%202026-05-30%20172318.png)
