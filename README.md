@@ -1,19 +1,38 @@
-# ServiceNow-CSA-Portfolio
-ServiceNow CSA portfolio with hands-on ITSM projects
+# ServiceNow CSA Portfolio
 
-Certified ServiceNow Administrator with hands-on ITSM projects.
+Hands-on ServiceNow projects demonstrating practical experience with ServiceNow Administration, ITSM processes, automation, and platform configuration.
 
-Projects (In Progress)
-1. Project 1 Incident Auto-Assignment System
-2. Project 2 Role-Based Access Control (RBAC)
-3. Project 3 Service Catalog Automation using Flow Designer (End-to-End Approval Workflow)
-4. Project 4 Coming soon...
+## Projects
 
-Skills
+### Project 1. Incident Auto-Assignment System
+Automated incident routing to the correct support group based on
+Service Category using Business Rules and server-side JavaScript.  
+[View Project](Project-1-Auto-Assignment/)
+
+### ✅ Project 2.  Role-Based Access Control (RBAC)
+Configured roles, groups, and ACLs to control user access across
+different modules in ServiceNow.     
+[View Project](Project-2-RBAC/)
+
+### ✅ Project 3. Service Catalog Automation using Flow Designer
+Built an end-to-end software access request workflow with manager
+approval, catalog task creation, and automated email notifications.   
+[View Project](Project-3-Service-Catalog-Flow/)
+
+### 🔄 Project 4 :Coming Soon
+
+## Skills
+
 - Incident Management
-- ITSM
-- User Access Control
+- Business Rules and Server-side JavaScript
+- Role-Based Access Control (RBAC)
+- Service Catalog Configuration
+- Flow Designer Automation
+- Email Notifications
+- Catalog Tasks and RITM Management
 - SLA Configuration
+- ITSM Processes
 
-Email: kirtidulhani02@gmail.com
-LinkedIn: https://www.linkedin.com/in/kirti-d/
+## Certification
+
+[![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-green?style=for-the-badge&logo=servicenow)](https://www.credly.com/badges/80d82198-ccf5-4abe-9932-fc58853fc488/linked_in?t=tfl5sc)
