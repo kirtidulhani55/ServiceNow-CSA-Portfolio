@@ -1,4 +1,4 @@
-# Project 3: Software Access Request Automation (ServiceNow)
+# Project 3: Service Catalog Automation using Flow Designer (End-to-End Approval Workflow)
 
 ## Problem Statement
 
