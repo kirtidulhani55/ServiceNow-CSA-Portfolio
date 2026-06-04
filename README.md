@@ -6,7 +6,7 @@ Certified ServiceNow Administrator with hands-on ITSM projects.
 Projects (In Progress)
 1. Project 1 Incident Auto-Assignment System
 2. Project 2 Role-Based Access Control (RBAC)
-3. Project 3 Coming soon...
+3. Project 3 Service Catalog Automation using Flow Designer (End-to-End Approval Workflow)
 4. Project 4 Coming soon...
 
 Skills
