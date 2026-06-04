@@ -96,3 +96,52 @@ When troubleshooting approval issues in ServiceNow, it is important to investiga
 * Resolved an unexpected platform-level approval issue 
   that was not covered in any tutorial
 
+## Screenshots
+### Catalog Item Configuration
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/35eb3d2d-d8c2-4039-8cf9-0174c946c545" />
+
+
+### Catalog Item :Service Portal View
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/d05e1cb5-5d36-44bf-be6b-f938dc86dd0e" /> <img width="1445" height="930" alt="image" src="https://github.com/user-attachments/assets/9550ac57-87f2-48a3-8a60-970415c8f69c" />
+
+### Variables (11)
+<img width="1912" height="595" alt="Screenshot 2026-06-04 201308" src="https://github.com/user-attachments/assets/8272f378-6cab-429a-9dcf-55bfe192c3b6" />
+
+### Variable Sets (3)
+<img width="1919" height="865" alt="Screenshot 2026-06-04 201324" src="https://github.com/user-attachments/assets/39627571-807e-4e2e-92e2-ccf50a80f802" />
+
+
+### Flow Designer
+<img width="638" height="924" alt="image" src="https://github.com/user-attachments/assets/d41d9398-eefd-4654-9e6d-71b2a592bc00" />
+
+### Request Submitted , REQ Generated
+<img width="1538" height="508" alt="Screenshot 2026-06-04 201129" src="https://github.com/user-attachments/assets/1067ae58-3ac6-407a-95b3-9f652fbb32ae" />
+
+
+### RITM Record
+<img width="1916" height="942" alt="Screenshot 2026-06-04 201217" src="https://github.com/user-attachments/assets/db5e0685-8c3b-4bdf-836d-a03e0161d93e" />
+
+
+### Approval : Approved Path
+<img width="1919" height="488" alt="Screenshot 2026-06-04 201244" src="https://github.com/user-attachments/assets/c1aa6d2f-d030-4770-9395-85618810c445" />
+
+
+### Catalog Task Closed Complete
+<img width="1919" height="924" alt="Screenshot 2026-06-04 201419" src="https://github.com/user-attachments/assets/d189146b-db07-4adf-b9ba-0c6af313924d" />
+
+
+### Final Email Request Fulfilled
+<img width="1066" height="429" alt="Screenshot 2026-06-04 201550" src="https://github.com/user-attachments/assets/527d3591-0757-4f27-9eca-3ff1139dfdf0" />
+
+
+### Approval : Rejected Path
+<img width="1919" height="307" alt="image" src="https://github.com/user-attachments/assets/9ea900ee-4a9d-4e55-a95d-dc6d070776aa" />
+<img width="1918" height="753" alt="image" src="https://github.com/user-attachments/assets/b5ba1b4a-bf4e-4d79-80c3-4c6c26e327ba" />
+
+
+### Rejection Email
+<img width="984" height="413" alt="image" src="https://github.com/user-attachments/assets/fffcb960-cec9-4e55-bbab-684c11f85bc2" />
+
+
+
+
