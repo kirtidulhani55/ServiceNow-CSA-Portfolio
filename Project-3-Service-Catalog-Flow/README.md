@@ -106,38 +106,38 @@ When troubleshooting approval issues in ServiceNow, it is important to investiga
 ![Service Catalog Item](SCItem.png)
 
 ### Variables (11)
-<img width="1912" height="595" alt="Screenshot 2026-06-04 201308" src="https://github.com/user-attachments/assets/8272f378-6cab-429a-9dcf-55bfe192c3b6" />
+![Variables](Variables.png)
 
 ### Variable Sets (3)
-<img width="1919" height="865" alt="Screenshot 2026-06-04 201324" src="https://github.com/user-attachments/assets/39627571-807e-4e2e-92e2-ccf50a80f802" />
+![Variable Set](VariableSet.png)
 
 
 ### Flow Designer
-<img width="638" height="924" alt="image" src="https://github.com/user-attachments/assets/d41d9398-eefd-4654-9e6d-71b2a592bc00" />
+![Flow Designer](FlowDesigner.png)
 
 ### Request Submitted , REQ Generated
-<img width="1538" height="508" alt="Screenshot 2026-06-04 201129" src="https://github.com/user-attachments/assets/1067ae58-3ac6-407a-95b3-9f652fbb32ae" />
+![REQ](REQ.png)
 
 
 ### RITM Record
-<img width="1916" height="942" alt="Screenshot 2026-06-04 201217" src="https://github.com/user-attachments/assets/db5e0685-8c3b-4bdf-836d-a03e0161d93e" />
+![RITM](RITM.png)
 
 
 ### Approval : Approved Path
-<img width="1919" height="488" alt="Screenshot 2026-06-04 201244" src="https://github.com/user-attachments/assets/c1aa6d2f-d030-4770-9395-85618810c445" />
+![Request Approved](ReqApporved.png)
 
 
 ### Catalog Task Closed Complete
-<img width="1919" height="924" alt="Screenshot 2026-06-04 201419" src="https://github.com/user-attachments/assets/d189146b-db07-4adf-b9ba-0c6af313924d" />
+![Catalog Task Complete](CatTaskComplete.png)
 
 
 ### Final Email Request Fulfilled
-<img width="1066" height="429" alt="Screenshot 2026-06-04 201550" src="https://github.com/user-attachments/assets/527d3591-0757-4f27-9eca-3ff1139dfdf0" />
+![Request Fulfilled Mail](RequestFulfilledMail.png)
 
 
 ### Approval : Rejected Path
-<img width="1919" height="307" alt="image" src="https://github.com/user-attachments/assets/9ea900ee-4a9d-4e55-a95d-dc6d070776aa" />
-<img width="1918" height="753" alt="image" src="https://github.com/user-attachments/assets/b5ba1b4a-bf4e-4d79-80c3-4c6c26e327ba" />
+![RITM Rejected](RItmRejected.png)
+![Email Rejected](EmailRejected.png)
 
 
 ### Rejection Email
