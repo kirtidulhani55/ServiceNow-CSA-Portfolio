@@ -98,11 +98,12 @@ When troubleshooting approval issues in ServiceNow, it is important to investiga
 
 ## Screenshots
 ### Catalog Item Configuration
-<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/35eb3d2d-d8c2-4039-8cf9-0174c946c545" />
+![Catalog Item Configuration](CatLogItem.png)
 
 
 ### Catalog Item :Service Portal View
-<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/d05e1cb5-5d36-44bf-be6b-f938dc86dd0e" /> <img width="1445" height="930" alt="image" src="https://github.com/user-attachments/assets/9550ac57-87f2-48a3-8a60-970415c8f69c" />
+![Service Catalog Item Form](ScItem.png)
+![Service Catalog Item](SCItem.png)
 
 ### Variables (11)
 <img width="1912" height="595" alt="Screenshot 2026-06-04 201308" src="https://github.com/user-attachments/assets/8272f378-6cab-429a-9dcf-55bfe192c3b6" />
