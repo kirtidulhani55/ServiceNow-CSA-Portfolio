@@ -9,12 +9,12 @@ Automated incident routing to the correct support group based on
 Service Category using Business Rules and server-side JavaScript.  
 [View Project](Project-1-Auto-Assignment/)
 
-### ✅ Project 2.  Role-Based Access Control (RBAC)
+### Project 2.  Role-Based Access Control (RBAC)
 Configured roles, groups, and ACLs to control user access across
 different modules in ServiceNow.     
 [View Project](Project-2-RBAC/)
 
-### ✅ Project 3. Service Catalog Automation using Flow Designer
+### Project 3. Service Catalog Automation using Flow Designer
 Built an end-to-end software access request workflow with manager
 approval, catalog task creation, and automated email notifications.   
 [View Project](Project-3-Service-Catalog-Flow/)
