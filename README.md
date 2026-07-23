@@ -6,8 +6,8 @@ Hands-on ServiceNow projects demonstrating practical experience with ServiceNow 
 
 ## Project 1. Incident Auto-Assignment System
 
-Developed an automated incident routing solution in ServiceNow using **Assignment Rules** and **Business Rules**.
-➡️ **[View Project](Project-1-Auto-Assignment/)**
+Developed an automated incident routing solution in ServiceNow using **Assignment Rules** and **Business Rules**.                                                         
+**[View Project](Project-1-Auto-Assignment/)**
 
 ### Project 2.  Role-Based Access Control (RBAC)
 Configured roles, groups, and ACLs to control user access across
